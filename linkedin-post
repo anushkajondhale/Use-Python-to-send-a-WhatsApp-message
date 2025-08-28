@@ -1,0 +1,24 @@
+💬 Automating WhatsApp Messages with Python 🚀  
+
+This week, I explored how to send a **WhatsApp message directly from the Linux terminal** using Python + Twilio API.  
+
+🔹 Here’s what I did:  
+1️⃣ Set up a free Twilio account and enabled WhatsApp sandbox  
+2️⃣ Collected Account SID, Auth Token, and sandbox WhatsApp number  
+3️⃣ Wrote a small Python script using Twilio’s SDK  
+4️⃣ Ran it from the terminal — and boom 💥 the message popped up on WhatsApp!  
+
+⚙️ Run it like this:
+python3 whatsapp_send.py  
+
+✅ Output:  
+Instant WhatsApp message delivered, right from the command line!  
+
+✨ Why this is exciting:  
+- Automates communication workflows  
+- Can send alerts, OTPs, or notifications  
+- Shows the power of **APIs + Python**  
+
+👉 Question for you: What’s the coolest thing you’ve ever automated with Python?  
+
+#Python #WhatsApp #Twilio #Automation #APIs #LearningByDoing
